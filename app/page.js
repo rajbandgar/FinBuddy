@@ -194,7 +194,7 @@ export default function LandingPage() {
                         transition={{ duration: 1, delay: 1.2 }}
                         className="text-sm"
                       >
-                        Great news! I've analyzed your spending this month. You've spent 30% less on dining compared to
+                        Great news! Ive analyzed your spending this month. Youve spent 30% less on dining compared to
                         last month - excellent progress! 🎉 I notice you could save about $45 monthly by consolidating
                         your subscription services. Would you like me to create a personalized savings plan?
                       </motion.p>
@@ -424,7 +424,7 @@ export default function LandingPage() {
                   transition={{ duration: 0.6, delay: 0.4 }}
                   className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400"
                 >
-                  FinBuddy makes financial management simple and intuitive. Here's how you can start taking control of
+                  FinBuddy makes financial management simple and intuitive. Heres how you can start taking control of
                   your money today.
                 </motion.p>
               </div>
